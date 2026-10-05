@@ -78,7 +78,7 @@ The project includes an interactive Entity Relationship Diagram showing:
 * Database structure
 * Entity connections
 
-**[Open Interactive ERD](./erd/FIFA_WorldCup_ERD.html)**
+**[Open Interactive ERD](https://fifa-world-cup-data-intelligence.vercel.app/erd/FIFA_WorldCup_ERD.html)**
 
 ---
 
