@@ -38,9 +38,6 @@ The goal is to move from raw datasets to a structured, validated, and analysis-r
 | Players         |   **11,364** |
 | Goals           |    **3,945** |
 | Tournaments     |       **31** |
-
-> * Verify the total record count against the final SQL Server database before publishing if the database has been updated since the project metrics were generated.
-
 ---
 
 ## Key Features
