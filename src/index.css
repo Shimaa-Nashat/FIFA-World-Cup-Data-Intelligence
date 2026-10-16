@@ -809,18 +809,18 @@ h2 em {
 .steps small {
   display: block;
   margin-top: 18px;
-  font: 10px var(--mono);
+  font: 13px var(--mono);
   color: var(--label);
 }
 .steps h3 {
   margin: 9px 0 6px;
-  font: 600 15px var(--display);
+  font: 600 16px var(--display);
   color: var(--ink);
 }
 .steps p {
   max-width: 150px;
   margin: 0;
-  font-size: 13px;
+  font-size: 14px;
   line-height: 1.75;
   color: var(--muted);
 }
